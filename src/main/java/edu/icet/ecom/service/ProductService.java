@@ -1,4 +1,4 @@
-package edu.icet.ecom.service.Impl;
+package edu.icet.ecom.service;
 
 import edu.icet.ecom.model.dto.ProductDto;
 import java.util.List;
